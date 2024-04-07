@@ -107,3 +107,10 @@ h3{
     right: auto;
     bottom: 5%;
     position: absolute;
+@media screen and (max-width: 880px) {
+    .google-map iframe{
+        left:0;
+        bottom:10%;
+        
+}
+    
