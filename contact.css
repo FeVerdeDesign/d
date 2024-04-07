@@ -67,8 +67,6 @@
       text-align: left;
     }
 }
-
-    
 .text{
     text-decoration:none;
     color:#AAFF00;
@@ -81,14 +79,14 @@
     margin-right: auto;
     margin-top: 20px;
     font-size: small;
-    width: 35%;
-    height: 50%;
+    width: 400px;
+    height: 500px;
     padding: 10px;
     background: black;
     border: 5px solid white ;
     border-radius: 10px;
-    
 }
+    
 h2{
     color: white;
 }
@@ -105,8 +103,7 @@ h3{
 }
 
 .google-map iframe {
-    margin-top:10%px
-     left: 10px;
-     top: 0;
-     position: absolute;
-}
+    left: 75px;
+    right: auto;
+    bottom: 5%;
+    position: absolute;
