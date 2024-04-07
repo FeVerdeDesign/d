@@ -70,6 +70,7 @@
 
     
 .text{
+    overflow:auto;
     text-decoration:none;
     color:#AAFF00;
     display: flex;
