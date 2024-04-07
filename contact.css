@@ -95,6 +95,12 @@ h2{
 h3{
     color: white;
 }
+.text iframe{
+    display:flex;
+    justify-content:left;
+    height:40%;
+    width:40%
+}
 @media screen and (max-width: 600px) {
     .text{
         height: auto;
