@@ -90,6 +90,10 @@
 @media (max-width: 1080px) {
 .poze img{
     width: 100%;
-    height: 90%;
+    height: 100%;
+}
+.poze{
+    width: 70%;
+    height: 50%;
 }
 }
